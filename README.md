@@ -30,7 +30,7 @@ This leads to gaps in biosecurity, delayed detection, and rapid spread of diseas
 The proposed solution is a Digital Farm Biosecurity Management Portal that provides farmers with an end-to-end platform to adopt, monitor, and sustain biosecurity measures. This system uses modern technologies—cloud, mobile, data analytics, ML risk assessment—to create a smart, accessible, and scalable solution.
 
 2. How the Solution Addresses the Problem
-3. 
+
 ✔ A. Customizable Biosecurity Risk Assessment
 
 Farm-specific digital checklist
@@ -97,7 +97,10 @@ This makes the system more advanced than traditional manual monitoring or WhatsA
 
 ## Technical Approach
 
-Technologies Used
+<img width="1536" height="1024" alt="ChatGPT Image Nov 14, 2025, 09_01_51 AM" src="https://github.com/user-attachments/assets/5ff70dd4-809d-40aa-88ad-fa4e2ad9cf0f" />
+
+
+## Technologies Used
 Frontend
 
 React / Next.js
